@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amn-rwt
-- 👀 I’m interested in mobile and web development. 
-- 🌱 I’m currently learning MERN stack development. 
+- 👀 I’m interested in mobile and UI/UX designing. 
+- 🌱 I’m currently learning Flutter and PHP. 
 - 💞️ I’m looking to collaborate on Flutter apps and libraries. 
 - 📫 amnrwt@outlook.com 
 
