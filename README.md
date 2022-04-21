@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amn-rwt
-- 👀 I’m interested in mobile and UI/UX designing. 
+- 👀 I’m interested in cross platform development with Flutter and UI/UX designing. 
 - 🌱 I’m currently learning Flutter and PHP. 
 - 💞️ I’m looking to collaborate on Flutter apps and libraries. 
 - 📫 amnrwt@outlook.com 
